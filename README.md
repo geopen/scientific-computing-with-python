@@ -1,5 +1,5 @@
-# Numerical Analysis in Python
-Notebooks and recipes related to numerical analysis with Python.
+# Scientific Computing with Python
+Notebooks and recipes related to scientific computing with Python.
 
 ## Contents
 ### Performance Comparisons
